@@ -146,22 +146,16 @@ LIMIT 10;
 The following screenshots demonstrate the main interfaces of the Math Whiz application.
 
 ### 1. Welcome Page
-
-The welcome page allows players to enter their names and start the mathematical game. Players can also access the leaderboard.
-
 ![Welcome Page](screenshots/Screenshot%202026-11-09%20214054.png)
 
 ### 2. Game Page
-
-The game page displays four mathematical questions covering prime numbers, modulus operations, and trigonometry. Players enter their answers and submit them for evaluation.
-
 ![Game Page](screenshots/Screenshot%202026-11-09%20213428.png)
 
 ### 3. Result Page
-
-The result page displays the player's name, final score, difficulty level, correct answers, and individual question results.
-
 ![Result Page](screenshots/Screenshot%202026-11-09%20213356.png)
+
+### 4. Leaderboard
+![Leaderboard](screenshots/Screenshot%202026-11-09%20213411.png)
 
 ### 4. Leaderboard
 
