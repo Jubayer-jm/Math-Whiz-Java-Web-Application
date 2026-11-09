@@ -145,20 +145,16 @@ LIMIT 10;
 The following screenshots demonstrate the main interfaces of the Math Whiz application.
 
 ### 1. Welcome Page
-
-![Welcome Page](screenshots/home.png)
+![Welcome Page](home.png)
 
 ### 2. Game Page
-
-![Game Page](screenshots/game.png)
+![Game Page](game.png)
 
 ### 3. Result Page
-
-![Result Page](screenshots/result.png)
+![Result Page](result.png)
 
 ### 4. Leaderboard
-
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard](leaderboard.png)
 
 ---
 
