@@ -1,27 +1,28 @@
-# Math-Whiz-Java-Web-Application
 # JUBAYER AHMED – MATH WHIZ
 
-**Java Web Application Development**
+**Java Web Application Development | Lab Assignment**
 
 A web-based mathematical quiz game developed using Java Servlet, JSP, JDBC, and MySQL.
 
-Players can test their mathematical knowledge through four interactive questions covering Prime Numbers, Modulus Operations, and Trigonometry. The application automatically evaluates answers, calculates scores out of 10, stores player records in a MySQL database, and displays a Top 10 Leaderboard.
+Math Whiz is an interactive mathematical game where players solve four mathematical challenges covering Prime Numbers, Modulus Operations, and Trigonometry. The application automatically evaluates answers, calculates scores out of 10, stores player records in a MySQL database, and displays a Top 10 Leaderboard.
 
 ---
 
-## 1. Project Overview
+## 1. Student Information
 
-**Project Name:** Math Whiz
+| Information | Details |
+|---|---|
+| Student Name | Jubayer Ahmed |
+| Student ID | IT-24027 |
+| Project Name | Math Whiz |
+| Course | Java Web Application Development |
+| Lab Practice | Java Servlet & JDBC |
+| Difficulty Level | NORMAL |
+| Total Marks | 10 |
 
-**Project Type:** Java Web Application
+---
 
-**Lab Practice:** Java Servlet & JDBC
-
-**Difficulty Level:** NORMAL
-
-**Maximum Score:** 10 Marks
-
-### Project Objectives
+## 2. Project Objectives
 
 - Develop an interactive mathematical quiz game.
 - Implement reusable mathematical methods in Java.
@@ -32,7 +33,7 @@ Players can test their mathematical knowledge through four interactive questions
 
 ---
 
-## 2. Technologies Used
+## 3. Technologies Used
 
 - Java
 - Java Servlet
@@ -47,7 +48,7 @@ Players can test their mathematical knowledge through four interactive questions
 
 ---
 
-## 3. Game Features
+## 4. Game Features
 
 - Player name input system.
 - Interactive welcome page.
@@ -65,7 +66,7 @@ Players can test their mathematical knowledge through four interactive questions
 
 ---
 
-## 4. Game Rules & Scoring System
+## 5. Game Rules & Scoring System
 
 The game contains four mathematical questions.
 
@@ -97,7 +98,7 @@ The game contains four mathematical questions.
 
 ---
 
-## 5. Database Configuration
+## 6. Database Configuration
 
 **Database Name:** `math_whiz_db`
 
@@ -114,8 +115,6 @@ The game contains four mathematical questions.
 | played_at | TIMESTAMP |
 
 ### Database Creation SQL
-
-Create the database and table using MySQL Workbench.
 
 ```sql
 CREATE DATABASE math_whiz_db;
@@ -142,37 +141,37 @@ LIMIT 10;
 
 ---
 
-## 6. Application Screenshots
+## 7. Application Screenshots
 
-The following screenshots demonstrate the main application interfaces.
+The following screenshots demonstrate the main interfaces of the Math Whiz application.
 
 ### 1. Welcome Page
 
 The welcome page allows players to enter their names and start the mathematical game. Players can also access the leaderboard.
 
-![Welcome Page](screenshots/home.png)
+![Welcome Page](screenshots/Screenshot%202026-11-09%20214054.png)
 
 ### 2. Game Page
 
 The game page displays four mathematical questions covering prime numbers, modulus operations, and trigonometry. Players enter their answers and submit them for evaluation.
 
-![Game Page](screenshots/game.png)
+![Game Page](screenshots/Screenshot%202026-11-09%20213428.png)
 
 ### 3. Result Page
 
 The result page displays the player's name, final score, difficulty level, correct answers, and individual question results.
 
-![Result Page](screenshots/result.png)
+![Result Page](screenshots/Screenshot%202026-11-09%20213356.png)
 
 ### 4. Leaderboard
 
 The leaderboard displays the top 10 players based on their scores, including player names, scores, difficulty levels, and playing date/time.
 
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard](screenshots/Screenshot%202026-11-09%202133411.png)
 
 ---
 
-## 7. Software Requirements
+## 8. Software Requirements
 
 To run this project, the following software is required:
 
@@ -185,7 +184,7 @@ To run this project, the following software is required:
 
 ---
 
-## 8. How to Run the Project
+## 9. How to Run the Project
 
 Follow these steps to run the application:
 
@@ -204,7 +203,7 @@ Follow these steps to run the application:
 
 ---
 
-## 9. Testing & Validation
+## 10. Testing & Validation
 
 The application can be tested using the following mathematical examples.
 
@@ -222,9 +221,7 @@ The application can be tested using the following mathematical examples.
 
 ---
 
-## 10. Project Structure
-
-Suggested project directory structure:
+## 11. Project Structure
 
 ```text
 MathWhiz/
@@ -247,21 +244,21 @@ MathWhiz/
 │   └── math_whiz_db.sql
 │
 ├── screenshots/
-│   ├── home.png
-│   ├── game.png
-│   ├── result.png
-│   └── leaderboard.png
+│   ├── Screenshot 2026-11-09 214054.png
+│   ├── Screenshot 2026-11-09 213428.png
+│   ├── Screenshot 2026-11-09 213411.png
+│   └── Screenshot 2026-11-09 213356.png
 │
 └── README.md
 ```
 
 ---
 
-## 11. Learning Outcomes
+## 12. Learning Outcomes
 
-After completing this project, I gained practical experience in:
+Through this project, I gained practical experience in:
 
-- Developing Java methods for mathematical calculations.
+- Developing reusable Java methods.
 - Applying conditional statements and logical operations.
 - Understanding Servlet request and response processing.
 - Connecting Java applications with MySQL using JDBC.
@@ -273,11 +270,13 @@ After completing this project, I gained practical experience in:
 
 ---
 
-## 12. Author Information
+## 13. Author Information
 
-**Author:** Jubayer Ahmed
+**Developed By:** Jubayer Ahmed
 
-**Project:** Math Whiz
+**Student ID:** IT-24027
+
+**Project Title:** Math Whiz
 
 **Course:** Java Web Application Development
 
@@ -285,12 +284,12 @@ After completing this project, I gained practical experience in:
 
 ---
 
-## 13. GitHub Repository
+## 14. GitHub Repository
 
-This project is available on GitHub.
-
-**Repository Link:** Add your GitHub repository link here.
+**Project Repository:** Math-Whiz-Java-Web-Application
 
 ---
 
-**Thank you for visiting Math Whiz!**
+**Thank You for Visiting Math Whiz!**
+
+*Developed as part of the Java Web Application Development Lab Assignment.*
