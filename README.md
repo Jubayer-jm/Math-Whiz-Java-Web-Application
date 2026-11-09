@@ -140,28 +140,25 @@ LIMIT 10;
 ```
 
 ---
-
 ## 7. Application Screenshots
 
 The following screenshots demonstrate the main interfaces of the Math Whiz application.
 
 ### 1. Welcome Page
-![Welcome Page](screenshots/Screenshot%202026-11-09%20214054.png)
+
+![Welcome Page](screenshots/home.png)
 
 ### 2. Game Page
-![Game Page](screenshots/Screenshot%202026-11-09%20213428.png)
+
+![Game Page](screenshots/game.png)
 
 ### 3. Result Page
-![Result Page](screenshots/Screenshot%202026-11-09%20213356.png)
+
+![Result Page](screenshots/result.png)
 
 ### 4. Leaderboard
-![Leaderboard](screenshots/Screenshot%202026-11-09%20213411.png)
 
-### 4. Leaderboard
-
-The leaderboard displays the top 10 players based on their scores, including player names, scores, difficulty levels, and playing date/time.
-
-![Leaderboard](screenshots/Screenshot%202026-11-09%202133411.png)
+![Leaderboard](screenshots/leaderboard.png)
 
 ---
 
